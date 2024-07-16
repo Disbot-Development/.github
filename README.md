@@ -45,7 +45,9 @@
 
 ## Qui sommes nous ?
 
-[![Disbot][product-screenshot]](https://dis-bot.xyz)
+<a href="https://github.com/disbot-development">
+  <img src="Images/Blurple_White_Banner.png" alt="Banner">
+</a>
 
 **Disbot Development** est une équipe de développement française et polyvalente. Nous sommes centrés sur l'utilisation de JavaScript et TypeScript.
 Retrouvez nos projets en cliquant [ici](https://github.com/orgs/Disbot-Development/repositories).
@@ -70,4 +72,3 @@ Tous nos projets sont soumises à des droits d'auteur et sous license GPL 3.0.
 L'utilisation du code source de l'un de nos projets est protégée par des droits d'auteur. Toute utilisation, modification ou distribution du code source doit se conformer aux licences et aux droits d'auteur applicables.
 
 <p align="right"><a href="#readme-top">retour en haut</a></p>
-[product-screenshot]: Images/Blurple_White_Banner.png
