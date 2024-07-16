@@ -29,10 +29,10 @@
   <summary>Sommaire</summary>
   <ol>
     <li>
-      <a href="#qui-sommes-nous">Qui sommes nous ?</a>
+      <a href="#qui-sommes-nous-?">Qui sommes nous ?</a>
     </li>
     <li>
-      <a href="#équipe">Démarrer</a>
+      <a href="#équipe">Équipe</a>
     </li>
     <li>
       <a href="#nous-contacter">Nous contacter</a>
