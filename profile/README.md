@@ -61,10 +61,14 @@ Voici la liste des personnes intégrées dans l'équipe.
 
 *Remarque: Les développeurs, des places sont disponibles pour rejoindre l'équipe de développement, niveau avancé en JavaScript, TypeScript et React requis.*
 
+<p align="right"><a href="#readme-top">retour en haut</a></p>
+
 ## Nous contacter
 
 Vous pouvez nous contacter depuis l'adresse e-mail suivante:
 - [contact@dis-bot.xyz](mailto:contact@dis-bot.xyz)
+
+<p align="right"><a href="#readme-top">retour en haut</a></p>
 
 ## Informations supplémentaires
 
