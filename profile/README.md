@@ -59,7 +59,7 @@ Retrouvez nos projets en cliquant [ici](https://github.com/orgs/Disbot-Developme
 Voici la liste des personnes intégrées dans l'équipe.
 - [@sey†](https://github.com/seyiooo)
 
-*Remarque: Les développeurs, des places sont disponibles pour rejoindre l'équipe de développement, niveau avancé en JavaScript, TypeScript et React requis.*
+*Remarque: Nous recherchons des personnes volontaires afin de rejoindre l'équipe support ! Les développeurs, des places sont disponibles pour rejoindre l'équipe de développement, niveau avancé en JavaScript, TypeScript et React requis.*
 
 <p align="right"><a href="#readme-top">retour en haut</a></p>
 
@@ -72,7 +72,7 @@ Vous pouvez nous contacter depuis l'adresse e-mail suivante:
 
 ## Informations supplémentaires
 
-Tous nos projets sont soumises à des droits d'auteur et sous license GPL 3.0.
+Tous nos projets sont soumis à des droits d'auteur et sont sous license GPL 3.0.
 L'utilisation du code source de l'un de nos projets est protégée par des droits d'auteur. Toute utilisation, modification ou distribution du code source doit se conformer aux licences et aux droits d'auteur applicables.
 
 <p align="right"><a href="#readme-top">retour en haut</a></p>
