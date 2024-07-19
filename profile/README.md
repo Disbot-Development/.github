@@ -65,7 +65,9 @@ Voici la liste des personnes intégrées dans l'équipe.
 
 ## Nous contacter
 
-Vous pouvez nous contacter depuis l'adresse e-mail suivante:
+Vous pouvez nous contacter depuis les liens suivants:
+
+- [Disbot Support](https://discord.gg/YPW3ZNuKW5)
 - [contact@dis-bot.xyz](mailto:contact@dis-bot.xyz)
 
 <p align="right"><a href="#readme-top">retour en haut</a></p>
