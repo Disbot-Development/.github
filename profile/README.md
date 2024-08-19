@@ -46,7 +46,7 @@
 ## Qui sommes nous ?
 
 <a href="https://github.com/disbot-development">
-  <img src="Images/Blurple_White_Banner.png" alt="Banner">
+  <img src="images/Blurple White Banner.png" alt="Banner">
 </a>
 
 **Disbot Development** est une équipe de développement française et polyvalente. Nous sommes centrés sur l'utilisation de JavaScript et TypeScript.
