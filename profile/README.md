@@ -57,7 +57,7 @@ Retrouvez nos projets en cliquant [ici](https://github.com/orgs/Disbot-Developme
 ## Équipe
 
 Voici la liste des personnes intégrées dans l'équipe.
-- [@sey†](https://github.com/seyiooo)
+- [@djaana](https://github.com/djaana)
 
 *Remarque: Nous recherchons des personnes volontaires afin de rejoindre l'équipe support ! Les développeurs, des places sont disponibles pour rejoindre l'équipe de développement, niveau avancé en JavaScript, TypeScript et React requis.*
 
